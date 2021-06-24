@@ -1,0 +1,199 @@
+﻿body {
+    font-family: Tahoma;
+    font-size: 13px;
+    margin: 0px auto;
+}
+
+#menu {
+    margin-left: 250px;
+    height: 40px;
+    width: 100%;
+}
+
+#menu_top {
+    width: 100%;
+}
+
+#menu_top1 {
+    width: 100%;
+    margin-left: 40%;
+}
+
+#menu_top ul {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 50px;
+}
+
+    #menu_top ul li {
+        list-style: none;
+        float: left;
+    }
+
+        #menu_top ul li a {
+            text-decoration: none;
+            display: block;
+            height: 40px;
+            line-height: 40px;
+            color: black;
+            /*border-right: 5px soloid white;*/
+            margin-right: 10px;
+        }
+
+            #menu_top ul li a.active {
+                /*background: #1949b5;*/
+            }
+
+#menu_top1 ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+    #menu_top1 ul li {
+        list-style: none;
+        float: left;
+    }
+
+        #menu_top1 ul li a {
+            text-decoration: none;
+            display: block;
+            height: 40px;
+            line-height: 40px;
+            color: black;
+            /*border-right: 5px soloid white;*/
+            margin-right: 10px;
+        }
+
+#logo {
+    width: 100%;
+}
+
+#logo1 {
+    height: 30px;
+    float: left;
+}
+
+#logo2 {
+    float: left;
+}
+
+#logo3 {
+    float: left;
+}
+
+#ben {
+    width: 100%;
+    height: 30px;
+}
+
+    #ben ul {
+        margin: 0px;
+        padding: 0px;
+        margin-left: 50px;
+    }
+
+        #ben ul li {
+            list-style: none;
+            float: left;
+        }
+
+            #ben ul li a {
+                text-decoration: none;
+                display: block;
+                height: 40px;
+                line-height: 40px;
+                color: black;
+                /*border-right: 5px soloid white;*/
+                margin-right: 10px;
+            }
+
+#main {
+    margin-top: 3px;
+    width: 100%;
+    height: 100px;
+}
+
+    #main #left {
+        margin-left: 10px;
+        width: 40%;
+        float: left;
+    }
+
+    #main #misss {
+        width: 25%;
+        float: left;
+    }
+
+    #main #right {
+        width: 30%px;
+        float: left;
+    }
+
+#eng {
+    margin-bottom: 10px;
+    float: right;
+    margin-right: 40px;
+}
+
+#noidung {
+    margin-top: 30px;
+    padding: 0px;
+}
+
+    #noidung ul li {
+        list-style: none;
+    }
+
+        #noidung ul li a {
+            margin-right: 10px;
+            display: block;
+            margin-right: 100px;
+            margin-top: 10px;
+            text-decoration: none;
+            line-height: 20px;
+            border-bottom: 1px solid black;
+        }
+
+#gocnhin {
+    margin-left: 25pxpx;
+}
+
+.im {
+    float: right;
+    margin-left: 5px;
+}
+
+#main #right ul {
+    margin-left: 5px;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+}
+
+    #main #right ul li {
+        float: left;
+        margin-left: 25px;
+        list-style: none;
+    }
+
+        #main #right ul li a {
+            text-decoration: none;
+            display: block;
+            margin-right: 5px;
+            color: black;
+            /*border-right: 5px soloid white;*/
+        }
+
+.id {
+    background-color: darkcyan;
+}
+
+.imgh {
+    margin-right: 40px;
+    margin-top: 35px;
+}
+
+.im {
+    margin-right: 30px;
+}
